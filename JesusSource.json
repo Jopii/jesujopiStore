@@ -1,50 +1,48 @@
 {
-    "name": "jesujopiStore",
-    "subtitle": "Aplicaciones de Jesús Jódar",
-    "description": "Bienvenido a mi tienda donde encontraras todas mis apps desarrolladas para iOS.",
-    "iconURL": "https://files.catbox.moe/25629h.png",
-    "website": "jopii.github.io",
-    "tintColor": "#000000",
-    "featuredApps": [
-      "jesujopi.Spectrum"
-    ],
-    "apps": [
-      {
-        "name": "Spectrum",
-        "bundleIdentifier": "jesujopi.Spectrum",
-        "developerName": "jesujopi",
-        "subtitle": "Captura y almacena fondos de pantalla",
-        "localizedDescription": "Spectrum es una aplicación que te permite utilizar la cámara de tu Iphone para capturar llamativos fondos de pantalla degradados, utiliza tu entorno como paleta de colores y funde los colores a tu gusto para crear fondos de pantalla o añade una imagen de tu galería para aplicar los mismos efectos que hayas seleccionado.",
-        "iconURL": "https://ejemplo.com/spectrum_icon.png",
-        "tintColor": "#000000",
-        "category": "photo-video",
-        "screenshots": [
-          {
-            "url": "https://files.catbox.moe/9mx4ro.PNG",
-            "width": 1179,
-            "height": 2556
-          },
-        ],
-        "versions": [
-          {
-            "version": "0.9",
-            "buildVersion": "1",
-            "date": "2025-02-15T12:34:12+00:00",
-            "localizedDescription": "Lanzamiento inicial de Spectrum.",
-            "downloadURL": "https://files.catbox.moe/ohni1q.ipa",
-            "size": 41670000,
-            "minOSVersion": "17.6"
-          }
-        ],
-        "appPermissions": {
-          "entitlements": [],
-          "privacy": {
-            "NSCameraUsageDescription": "Spectrum utiliza la cámara para capturar imágenes.",
-            "NSPhotoLibraryUsageDescription": "Spectrum requiere acceso a la fototeca para almacenar fondos de pantalla."
-          }
+  "name": "jesujopiStore",
+  "subtitle": "Aplicaciones de Jesús Jódar",
+  "description": "Bienvenido a mi tienda donde encontrarás todas mis apps desarrolladas para iOS.",
+  "iconURL": "https://files.catbox.moe/25629h.png",
+  "website": "https://jopii.github.io",
+  "tintColor": "#000000",
+  "featuredApps": [
+    "jesujopi.Spectrum"
+  ],
+  "apps": [
+    {
+      "name": "Spectrum",
+      "bundleIdentifier": "jesujopi.Spectrum",
+      "developerName": "jesujopi",
+      "subtitle": "Captura y almacena fondos de pantalla",
+      "localizedDescription": "Spectrum es una aplicación que te permite utilizar la cámara de tu iPhone para capturar llamativos fondos de pantalla degradados. Usa tu entorno como paleta de colores y fusiona los tonos a tu gusto para crear fondos de pantalla, o añade una imagen de tu galería para aplicar los mismos efectos seleccionados.",
+      "iconURL": "https://files.catbox.moe/25629h.png",
+      "tintColor": "#000000",
+      "category": "photo-video",
+      "screenshotURLs": [
+        "https://files.catbox.moe/9mx4ro.PNG"
+      ],
+      "versions": [
+        {
+          "version": "0.9",
+          "buildVersion": "1",
+          "date": "2025-02-15T12:34:12+00:00",
+          "localizedDescription": "Lanzamiento inicial de Spectrum.",
+          "downloadURL": "https://files.catbox.moe/ohni1q.ipa",
+          "size": 41670000,
+          "minOSVersion": "17.6"
         }
-      }
-    ],
-    "news": []
-  }
-  
+      ],
+      "permissions": [
+        {
+          "type": "camera",
+          "usageDescription": "Spectrum utiliza la cámara para capturar imágenes."
+        },
+        {
+          "type": "photos",
+          "usageDescription": "Spectrum requiere acceso a la fototeca para almacenar fondos de pantalla."
+        }
+      ]
+    }
+  ],
+  "news": []
+}
