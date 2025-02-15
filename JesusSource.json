@@ -1,8 +1,8 @@
 {
     "name": "jesujopiStore",
     "subtitle": "Aplicaciones de Jesús Jódar",
-    "description": ".",
-    "iconURL": "https://ejemplo.com/spectrum_icon.png",
+    "description": "Bienvenido a mi tienda donde encontraras todas mis apps desarrolladas para iOS.",
+    "iconURL": "https://3333.filelu.live/i/00545/jslv1d7n39tx_t.jpg",
     "headerURL": "https://ejemplo.com/spectrum_header.png",
     "website": "https://ejemplo.com",
     "tintColor": "#000000",
@@ -21,15 +21,10 @@
         "category": "photo-video",
         "screenshots": [
           {
-            "url": "https://ejemplo.com/spectrum_screenshot1.png",
+            "url": "https://3333.filelu.live/i/00545/cyrzahfuf1z8_t.jpg",
             "width": 1179,
             "height": 2556
           },
-          {
-            "url": "https://ejemplo.com/spectrum_screenshot2.png",
-            "width": 1179,
-            "height": 2556
-          }
         ],
         "versions": [
           {
