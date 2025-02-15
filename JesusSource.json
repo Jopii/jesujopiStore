@@ -15,7 +15,7 @@
       "developerName": "jesujopi",
       "subtitle": "Captura y almacena fondos de pantalla",
       "localizedDescription": "Spectrum es una aplicación que te permite utilizar la cámara de tu iPhone para capturar llamativos fondos de pantalla degradados. Usa tu entorno como paleta de colores y fusiona los tonos a tu gusto para crear fondos de pantalla, o añade una imagen de tu galería para aplicar los mismos efectos seleccionados.",
-      "iconURL": "https://files.catbox.moe/25629h.png",
+      "iconURL": "https://ejemplo.com/spectrum_icon.png",
       "tintColor": "#000000",
       "category": "photo-video",
       "screenshotURLs": [
@@ -46,3 +46,4 @@
   ],
   "news": []
 }
+
