@@ -2,9 +2,9 @@
     "name": "jesujopiStore",
     "subtitle": "Aplicaciones de Jesús Jódar",
     "description": "Bienvenido a mi tienda donde encontraras todas mis apps desarrolladas para iOS.",
-    "iconURL": "https://3333.filelu.live/i/00545/jslv1d7n39tx_t.jpg",
+    "iconURL": "https://files.catbox.moe/25629h.png",
     "headerURL": "https://ejemplo.com/spectrum_header.png",
-    "website": "https://ejemplo.com",
+    "website": "jopii.github.io",
     "tintColor": "#000000",
     "featuredApps": [
       "jesujopi.Spectrum"
@@ -21,7 +21,7 @@
         "category": "photo-video",
         "screenshots": [
           {
-            "url": "https://3333.filelu.live/i/00545/cyrzahfuf1z8_t.jpg",
+            "url": "https://files.catbox.moe/9mx4ro.PNG",
             "width": 1179,
             "height": 2556
           },
@@ -32,7 +32,7 @@
             "buildVersion": "1",
             "date": "2025-02-15T12:34:12+00:00",
             "localizedDescription": "Lanzamiento inicial de Spectrum.",
-            "downloadURL": "https://ejemplo.com/spectrum-0.9.ipa",
+            "downloadURL": "https://files.catbox.moe/ohni1q.ipa",
             "size": 41670000,
             "minOSVersion": "17.6"
           }
